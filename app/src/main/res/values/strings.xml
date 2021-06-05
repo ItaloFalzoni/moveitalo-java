@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">move.Italo</string>
+    <string name="title_home">Início</string>
+    <string name="title_settings">Configurações</string>
+    <string name="title_countdown">Contador</string>
+
+    <string name="welcome">Olá</string>
+    <string name="current_date">Data do dia atual</string>
+    <string name="primary_title">Conclua um desafio e ganhe pontos</string>
+    <string name="secondary_title">Acumule pontos e suba de nível</string>
+    <string name="countdown_text">00:03</string>
+    <string name="start_button_text">Iniciar um ciclo</string>
+    <string name="cancel_button_text">Cancelar ciclo</string>
+    <string name="level_up_icon">level up icon</string>
+    <string name="challenge_title">Novo exercício</string>
+    <string name="experience">experiencia</string>
+    <string name="username">username</string>
+    <string name="level">level</string>
+    <string name="welcome_login">Bem vindo</string>
+    <string name="login">Entrar</string>
+    <string name="seu_nivel">Seu nível</string>
+    <string name="challenges">Desafios</string>
+    <string name="countdown_text_tip">O valor padrão é 25 minutos, tempo recomendado para pessoas que ficam muito tempo na frente do computador.</string>
+    <string name="logo">logo</string>
+</resources>
